@@ -1,3 +1,4 @@
-#output {
-    padding: 30px;
+#receipt {
+    padding-top: 30px;
+    display: none;
 }
